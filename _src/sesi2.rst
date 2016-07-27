@@ -1,7 +1,7 @@
-.. _hari1:
+.. _sesi2:
 
 ****************
-Materi Hari 2
+Materi 2
 ****************
 
 
@@ -16,8 +16,8 @@ pada web dengan menggunakan TurfJS.
 .. toctree::
   :maxdepth: 2
 
-  hari2/bootstrap.rst
-  hari2/leaflet.rst
+  sesi2/bootstrap.rst
+  sesi2/leaflet.rst
 
 .. raw:: latex
 

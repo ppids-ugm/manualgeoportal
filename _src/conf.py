@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PPIDS Academy'
-copyright = u'2016, DanyLaksono'
+project = u'PPIDS UGM'
+copyright = u'2016, ppidsugm'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -113,7 +113,7 @@ html_theme_options = {# Navigation bar title. (Default: ``project`` value)
     'navbar_title': "PPIDS-UGM",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "PPIDS-Academy",
+    'navbar_site_name': "Manual Geoportal",
 
     # A list of tuples containing pages or urls to link to.
     # Valid tuples should be in the following forms:
@@ -145,7 +145,7 @@ html_theme_options = {# Navigation bar title. (Default: ``project`` value)
     # will break.
     #
     # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "true",
+    'globaltoc_includehidden': "false",
 
     # HTML navbar class (Default: "navbar") to attach to <div> element.
     # For black navbar, do "navbar navbar-inverse"
@@ -163,7 +163,7 @@ html_theme_options = {# Navigation bar title. (Default: ``project`` value)
     #
     # Options are nothing with "" (default) or the name of a valid theme
     # such as "amelia" or "cosmo".
-    'bootswatch_theme': "cerulean",
+    'bootswatch_theme': "amelia",
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)

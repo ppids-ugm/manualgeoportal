@@ -1,7 +1,7 @@
-.. _hari1:
+.. _sesi1:
 
 ****************
-Materi Hari 1
+Materi 1
 ****************
 
 
@@ -16,8 +16,8 @@ memiliki akun Github dengan domain yang aktif dan dapat diakses oleh publik.
 .. toctree::
   :maxdepth: 2
 
-  hari1/git.rst
-  hari1/forking.rst
+  sesi1/git.rst
+  sesi1/forking.rst
 
 .. raw:: latex
 
