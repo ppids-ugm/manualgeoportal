@@ -4,9 +4,9 @@
    contain the root `toctree` directive.
 
 
-*******************************
+****************************
 Modul Pelatihan Geoportal
-*******************************
+****************************
 
 ---------------------------------------------------------
 Pusat Pengembangan Infrastruktur Data Spasial (PPIDS-UGM)
