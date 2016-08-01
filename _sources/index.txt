@@ -4,13 +4,13 @@
    contain the root `toctree` directive.
 
 
-*******************************
- 	PPIDS Academy Tutorial Book
-*******************************
+****************************
+Modul Pelatihan Geoportal
+****************************
 
--------------------------------------------------------
-*(Or how to be a geospatial web developer in 10 days)*
--------------------------------------------------------
+---------------------------------------------------------
+Pusat Pengembangan Infrastruktur Data Spasial (PPIDS-UGM)
+---------------------------------------------------------
 
 .. raw:: html
 
@@ -29,8 +29,8 @@ Daftar Materi
 .. toctree::
    :maxdepth: 4
 
-   hari_1.rst
-   hari_2.rst
+   sesi1.rst
+   sesi2.rst
    lisensi.rst
 
 
@@ -62,38 +62,6 @@ Beberapa kegiatan yang telah dilaksanakan oleh PPIDS-UGM antara lain:
 * Evaluasi Kesiapan Penerapan IDS pada pemerintah daerah di Indonesia
 * Pengembangan Geoportal pada berbagai Kementrian/Lembaga/Pemda
 * dan lain-lain
-
-
-.. _tentang-academy:
-
-Tentang PPIDS-Academy
-=====================
-
-Untuk mengantisipasi tingginya permintaan pasar atas pengembangan infrastruktur data spasial
-baik dalam bentuk penyiapan SDM maupun pengembangan teknologi, pada tahun 2016 PPIDS-UGM
-membentuk PPIDS-Academy yang terdiri dari lebih-kurang 20 orang mahasiswa yang dilatih
-dan dipersiapkan secara khusus untuk membantu PPIDS dalam melaksanakan tugas yang dibebankan.
-
-Tujuan utama dari PPIDS-Academy adalah untuk mempersiapkan tenaga professional muda yang
-mampu bekerja di bidang informasi geospasial untuk meningkatkan kapasitas mahasiswa
-dalam memenuhi permintaan pasar yang kian tinggi. PPIDS-Academy berlangsung selama satu semester dengan
-jumlah pertemuan sekurang-kurangnya 10 kali. PPIDS memberikan sertifikat kelulusan bagi mahasiswa peserta
-PPIDS-Academy yang dapat menghadiri 80% dari total pertemuan yang diselenggarakan. Sebagai catatan, peserta
-PPIDS-Academy tidak dipungut biaya sama sekali.
-
-Beberapa materi pokok yang disampaikan pada **PPIDS-Academy** adalah sebagai berikut:
-
-* Teknologi Internet dan Web
-* Dasar-dasar WebGIS
-* Client-side dan Server-side scripting
-* Webmap APIs (OpenLayers, Gmap API, ArcGIS API dan Leaflet)
-* Cloud WebGIS (GISCloud, Mapbox dan TileMill, serta CartoDB)
-* Server Data Spasial (ArcGIS Server, Geoserver)
-* Manajemen Geoportal (Geonode dan OpenGeo Suite)
-* Pemetaan web tiga dimensi (Cessium, ThreeJS, X3DOM dan CityGML)
-* Location Based Service (LBS) dan WebGIS dengan Android
-* Fullstack WebGIS development (MongoDB, ExpressJS, AngularJS dan NodeJS)
-* Cloud-computing WebGIS
 
 
 .. _sistematika:
