@@ -16,7 +16,7 @@ memiliki akun Github dengan domain yang aktif dan dapat diakses oleh publik.
 .. toctree::
   :maxdepth: 2
 
-  sesi1/git.rst
+  sesi1/instalasi.rst
   sesi1/forking.rst
 
 .. raw:: latex
